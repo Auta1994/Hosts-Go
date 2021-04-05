@@ -1,4 +1,4 @@
-# Hosts-Go
+#danauta kamba modern Canvas Hosts-Go
 hosts file for hosts go
 The hosts GO app can be download from google play:
 
